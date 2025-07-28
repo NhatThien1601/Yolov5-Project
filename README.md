@@ -208,12 +208,15 @@ python detect.py --weights yolov5s.pt --source 'https://youtu.be/LNwODJXcvt4' # 
 python detect.py --weights yolov5s.pt --source 'rtsp://example.com/media.mp4' # RTSP, RTMP, HTTP stream
 ```
 ## Một số demo thực hiện của nhóm
+![Kết quả mô hình](images/ketqua_saukhitrain500.png)
+![Kết quả mô hình](images/results.png)
+![Kết quả mô hình](images/val_batch0_pred.jpg)
+![Kết quả mô hình](images/cats.jpg)
+![Kết quả mô hình](images/chovameo1.jpg)
+![Kết quả mô hình](images/chovameo4.jpg)
+![Kết quả mô hình](images/chovameo5.jpg)
+![Kết quả mô hình](images/chovameo6.jpeg)
 
-- ![Result 1](https://drive.google.com/file/d/1Om9veEjbLzNz7F-Li-5Jvr_kwmT-_mv0/view?usp=sharing)
-- ![Result 2](https://drive.google.com/file/d/1mNyEGkR6yshmFWmpAQ3u-pM1_Oxguwzg/view?usp=sharing)
-- ![Result 3](https://drive.google.com/file/d/1E53-qbdKIY9MW_PALV5u0hxU_i2Ghc8o/view?usp=sharing)
-- ![Result 4](https://drive.google.com/file/d/1RSJGWIzwhvlxvPl0QEylYoYywGYCjpVL/view?usp=sharing)
-- ![Result 5](https://drive.google.com/file/d/1U0Mg2lWN81ewvCstZFSH98FttFimFQIF/view?usp=sharing)
 # Tài liệu tham khảo thêm :
 - [All about YOLOv5 Docs](https://docs.ultralytics.com/vi/yolov5/)
 - [Github Ultralytics YOLOv5](https://github.com/ultralytics/yolov5)
