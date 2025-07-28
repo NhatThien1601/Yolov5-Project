@@ -209,7 +209,11 @@ python detect.py --weights yolov5s.pt --source 'rtsp://example.com/media.mp4' # 
 ```
 ## Một số demo thực hiện của nhóm
 
-
+- ![Result 1](https://drive.google.com/file/d/1Om9veEjbLzNz7F-Li-5Jvr_kwmT-_mv0/view?usp=sharing)
+- ![Result 2](https://drive.google.com/file/d/1mNyEGkR6yshmFWmpAQ3u-pM1_Oxguwzg/view?usp=sharing)
+- ![Result 3](https://drive.google.com/file/d/1E53-qbdKIY9MW_PALV5u0hxU_i2Ghc8o/view?usp=sharing)
+- ![Result 4](https://drive.google.com/file/d/1RSJGWIzwhvlxvPl0QEylYoYywGYCjpVL/view?usp=sharing)
+- ![Result 5](https://drive.google.com/file/d/1U0Mg2lWN81ewvCstZFSH98FttFimFQIF/view?usp=sharing)
 # Tài liệu tham khảo thêm :
 - [All about YOLOv5 Docs](https://docs.ultralytics.com/vi/yolov5/)
 - [Github Ultralytics YOLOv5](https://github.com/ultralytics/yolov5)
