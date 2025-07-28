@@ -208,3 +208,12 @@ python detect.py --weights yolov5s.pt --source 'https://youtu.be/LNwODJXcvt4' # 
 python detect.py --weights yolov5s.pt --source 'rtsp://example.com/media.mp4' # RTSP, RTMP, HTTP stream
 ```
 ## Một số demo thực hiện của nhóm
+
+
+# Tài liệu tham khảo thêm :
+- [All about YOLOv5 Docs](https://docs.ultralytics.com/vi/yolov5/)
+- [Github Ultralytics YOLOv5](https://github.com/ultralytics/yolov5)
+- [Youtube using YOLOv5 for train custom datasets ver VIE](https://www.youtube.com/watch?v=eSS0EnCX1A0)
+- [Train YOLOv5 custom dataset](https://viblo.asia/p/su-dung-colab-train-yolov5-voi-custom-dataset-phat-hien-cac-doi-tuong-dac-thu-Az45bqv6lxY)
+- [Google](https://www.google.com/)
+- Slide bài giảng Nhập môn Xử lý ảnh số - Văn Lang University
