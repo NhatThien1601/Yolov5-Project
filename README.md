@@ -208,15 +208,21 @@ python detect.py --weights yolov5s.pt --source 'https://youtu.be/LNwODJXcvt4' # 
 python detect.py --weights yolov5s.pt --source 'rtsp://example.com/media.mp4' # RTSP, RTMP, HTTP stream
 ```
 ## Một số demo thực hiện của nhóm
+### Sau khi train hơn 600 lần cho model yolov5s
 ![Kết quả mô hình](images/ketqua_saukhitrain500.png)
+### Kết quả result là nhìn chung 2 chart mAP_0.5 và mAP_0.5:0.95 tăng trưởng rõ rệt ( phản ứng độ chính xác khá cao hơn 80% )
 ![Kết quả mô hình](images/results.png)
+### Thay đổi đường dẫn path defaults thành best.pt(model đã train xong)
+![Kết quả mô hình](https://github.com/NhatThien1601/Yolov5-Project/blob/main/images/thay%20doi%20path.png)
+### Một số kết quả đạt được(Detection Results)
 ![Kết quả mô hình](images/val_batch0_pred.jpg)
 ![Kết quả mô hình](images/cats.jpg)
 ![Kết quả mô hình](images/chovameo1.jpg)
 ![Kết quả mô hình](images/chovameo4.jpg)
 ![Kết quả mô hình](images/chovameo5.jpg)
 ![Kết quả mô hình](images/chovameo6.jpeg)
-
+### => Nhìn chung thì mặc dù đã train hơn 600 lần cho model YOLOv5s nhưng do là mô hình YOLOv5 là đời cũ(ra đời vào năm 2020) và còn nhiều hạn chế cho nên tỉ lệ thành công trong việc detect(nhận diện) vẫn còn nhiều thiếu sót. Con số mAP(Mean Average Precision) của biểu đồ train mặc dù thể hiện độ chính xác khá cao nhưng thực tế khi nhận diện vẫn còn nhiều lỗi(do bị che khuất, hình ảnh độ phân giải k cao, vật cản, ..v.v).
+### => Lưu ý : Đây chỉ là mô hình dự án do sinh viên thực hiện mục đích cho việc nghiên cứu báo cáo môn học nhỏ lẻ và không có tính xác thực khi đưa thực tiễn !!!
 # Tài liệu tham khảo thêm :
 - [All about YOLOv5 Docs](https://docs.ultralytics.com/vi/yolov5/)
 - [Github Ultralytics YOLOv5](https://github.com/ultralytics/yolov5)
